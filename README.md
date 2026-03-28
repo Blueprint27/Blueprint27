@@ -1,53 +1,45 @@
-# Ascension Blue
+# Lavelle Saulsberry | Blueprint27
 
-**Credit Repair Powered by AI**  
-Ascension Blue is an intelligent credit repair platform designed to deliver faster, smarter, and more personalized results. Our built-in AI software tracks, monitors, and assists with client data in real-time, giving users seamless feedback and accelerating the dispute process.
+AI product builder focused on dashboards, workflows, automation, and mission-driven platforms. I build live prototypes and evolving products across mental health support, crypto intelligence, child development tools, and credit workflow systems.
 
----
+## What I’m Building
 
-## Table of Contents
+- **PeaceTech** — trauma-aware AI support and analytics platform for journaling, insight, and dashboard visibility
+- **CryptoSaje** — crypto intelligence dashboard with category filters, strategy direction, and future alert automation
+- **BrightLedger.ai** — modern credit workflow platform with auth flows and dashboard access
+- **ZuriCare** — child-focused journaling, emotional growth, and Spanish learning app with parent visibility
+- **Cipher Assistant** — AI assistant environment and evolving control layer
 
-- [About](#about)
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Installation](#installation)
-- [Configuration](#configuration)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+## Current Focus
 
----
+- Strengthening technical fluency with Python and system logic
+- Packaging live projects into stronger public proof
+- Building a cleaner founder/developer presence on GitHub
+- Expanding product depth, integrations, and automation
 
-## About
+## Core Strengths
 
-Ascension Blue combines traditional credit repair techniques with cutting-edge AI tools to create a streamlined user experience. Clients benefit from automated insights, real-time tracking, and fast response systems built directly into the platform.
+- Product vision and user flow design
+- AI-assisted prototyping and shipping
+- Dashboard and workflow architecture
+- Turning ideas into live usable tools
+- Connecting platforms, data, and automation into one system
 
----
+## Live Projects
 
-## Features
+- **BrightLedger.ai** — https://brightledger.it.com
+- **CryptoSaje** — https://cryptosaje.it.com
+- **PeaceTech** — https://peacetech.tech
+- **Cipher Assistant** — https://cipher-assistant.replit.app
+- **Void Static TW** — https://void-static-tw.replit.app/
 
-- [x] AI-powered credit monitoring and analysis
-- [x] Real-time client dashboards
-- [x] Firebase-authenticated login and database support
-- [x] Hosted on Vercel for instant deployment
-- [ ] Advanced dispute automation (coming soon)
+## Selected Repositories
 
----
+- **BrightLedger.ai** — financial and credit workflow platform
+- **cryptosaje** — crypto intelligence dashboard MVP
+- **peacetech** — trauma-aware AI platform concept and prototype
+- **zuricare** — child journaling and learning support platform
 
-## Tech Stack
+## Right Now
 
-- **Frontend**: HTML, CSS, JavaScript
-- **Backend/Database**: Firebase
-- **Deployment**: Replit + Vercel
-- **AI**: Custom logic integrated with tracking systems (API-powered)
-
----
-
-## Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/ascension-blue.git
-cd ascension-blue
+I’m focused on becoming more technically fluent in the systems I already build, so I can explain architecture, logic, and workflows as strongly as I can envision and ship them.
